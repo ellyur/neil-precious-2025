@@ -28,7 +28,7 @@ const EntourageSection = () => {
         "PCOL ALLADIN TAMAYO",
         "Arnold Campos",
         "Erwin Maglinte",
-        "Jan Osorio",
+        "Merlyn Jan Osorio",
         "Wilfredo Saplad",
         "Engr. Archimedes Labao"
       ],
