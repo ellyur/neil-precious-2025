@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 const EntourageSection = () => {
   const entourageData = {
     parents: [
-      { label: "Parents of the Groom", names: ["Bonifacio Tamonman", "Lolita Tamonman", "Mark Ian Tamonman"] },
+      { label: "Parents of the Groom", names: ["Bonifacio Tamonan", "Lolita Tamonan", "Mark Ian Tamonan"] },
       { label: "Parents of the Bride", names: ["PCPT Alfred Patron", "Ruby Patron"] }
     ],
     principalSponsors: {
@@ -11,7 +11,7 @@ const EntourageSection = () => {
       couples: [
         { man: "Roger Patron", woman: "Eden Patron" },
         { man: "Alejandro Pineda", woman: "Leonorita Pineda" },
-        { man: "Danilo Capares", woman: "Maysie Capares" },
+        { man: "Engr. Danilo Caparos", woman: "Maysie Caparos" },
         { man: "Alfonso Maraggun", woman: "Maribel Maraggun" },
         { man: "Joseph Lagura", woman: "Gina Lagura" },
         { man: "Edwin Saplad", woman: "Revelita Saplad" },
@@ -34,7 +34,7 @@ const EntourageSection = () => {
       ],
       soloWomen: [
         "Carmelita Patron",
-        "Michele Omgia",
+        "Michele Ongria",
         "Rizalyn Resicco",
         "Joermay Sala",
         "Dr. Jessica Verallo",
