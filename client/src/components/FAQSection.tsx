@@ -52,7 +52,7 @@ const FAQSection = () => {
     {
       question: "Can I take photos during the reception?",
       icon: Camera,
-      answer: "Yes, please do! Snap away during cocktail hour and the reception, and share your favorite memories using our official hashtags: #TheweddingofD&R and #D&R2026"
+      answer: "Yes, please do! Snap away during cocktail hour and the reception, and share your favorite memories using our official hashtag: #Neil&Precious2026"
     }
   ];
 
