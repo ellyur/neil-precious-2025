@@ -60,7 +60,7 @@ const EntourageSection = () => {
       ]
     },
     bestMan: { name: "Omegs Gryeane Solis", role: "Best Man" },
-    maidOfHonor: { name: "Shaiden Patron", role: "Maid of Honor" },
+    maidOfHonor: { name: "Shanaden Patron", role: "Maid of Honor" },
     groomsmen: [
       "Engr. Judah Ray Pagtalunan",
       "Alfon Philip Sabido",
