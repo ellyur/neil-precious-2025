@@ -15,9 +15,9 @@ const EntourageSection = () => {
         { man: "Alfonso Maraggun", woman: "Maribel Maraggun" },
         { man: "Joseph Lagura", woman: "Gina Lagura" },
         { man: "Edwin Saplad", woman: "Revelita Saplad" },
-        { man: "Angelita Tugade", woman: "Jacinto Tugade" },
+        { man: "Jacinto Tugade", woman: "Angelita Tugade" },
         { man: "Dr. Romulo Paclibar", woman: "Berly Paclibar" },
-        { man: "Gemma Bandiola", woman: "Rolando Bandiola" },
+        { man: "Rolando Bandiola", woman: "Gemma Bandiola" },
         { man: "Edgar Saplad", woman: "Melly Saplad" },
         { man: "Edilberto Saplad", woman: "Lea Saplad" },
         { man: "Engr. Efren Canonigo", woman: "Engr. Feln Canonigo" }
