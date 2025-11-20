@@ -67,6 +67,7 @@ const Index = () => {
           <HeroSection audioRef={audioRef} />
         <InvitationRevealSection />
         <CountdownSection />
+        <RSVPSection />
         <ImageLoop />
         <StorySection />
         <ScrollTriggeredTimeline />
@@ -86,7 +87,6 @@ const Index = () => {
           imageUrl={cover1Image}
           alt="Neil & Precious Wedding Cover 1"
         />
-        <RSVPSection />
         <EntourageSection />
         <CoverSection
           imageUrl={cover3Image}
