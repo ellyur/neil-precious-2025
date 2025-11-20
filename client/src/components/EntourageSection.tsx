@@ -73,7 +73,7 @@ const EntourageSection = () => {
       "Chique Kyle Illorin",
       "Denisse Rianne Ferolino",
       "Mercianne Joy Siasico",
-      "PCP Christene Dale Yuson"
+      "PCPT Christine Dale Yuson"
     ]
   };
 
