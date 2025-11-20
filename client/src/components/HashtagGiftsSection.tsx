@@ -1,6 +1,8 @@
 import { motion } from 'framer-motion';
 import qrCodeImage from '@assets/gift_1762595139706.jpg';
 
+import _582054896_2651565651871654_5293383474418113507_n from "@assets/582054896_2651565651871654_5293383474418113507_n.jpg";
+
 const backgroundImage = 'https://res.cloudinary.com/dsitzod3c/image/upload/v1763566013/cover2_pii7wz.jpg';
 
 const HashtagGiftsSection = () => {
@@ -74,7 +76,7 @@ const HashtagGiftsSection = () => {
                 
                 <div className="mt-8">
                   <img 
-                    src={qrCodeImage}
+                    src={_582054896_2651565651871654_5293383474418113507_n}
                     alt="Payment QR Code"
                     className="w-64 h-auto mx-auto rounded-lg shadow-md"
                     data-testid="img-qr-code"
