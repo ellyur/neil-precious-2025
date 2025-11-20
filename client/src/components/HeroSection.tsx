@@ -33,7 +33,7 @@ const HeroSection = ({ audioRef }: HeroSectionProps) => {
             WHERE LOVE BLOOMS
           </p>
         </div>
-        
+
         {/* Names */}
         <h1 className="text-5xl sm:text-6xl md:text-7xl lg:text-8xl xl:text-9xl text-white tracking-wide" data-testid="text-main-invitation" style={{ fontFamily: 'Boska, serif', fontWeight: 300 }}>
           {animationsEnabled ? (
@@ -86,13 +86,13 @@ const HeroSection = ({ audioRef }: HeroSectionProps) => {
         .hero-section {
           min-height: 100vh !important;
         }
-        
+
         @media (min-width: 768px) {
           .hero-section {
             min-height: 100vh !important;
           }
         }
-        
+
         @media (max-width: 767px) {
           .hero-section {
             background-attachment: scroll !important;
