@@ -81,9 +81,19 @@ const RSVPSection = () => {
                 >
                   Please confirm your attendance by responding to our invitation. Click the RSVP HERE! button above.
                 </p>
-                <p className="text-center">
+                <p className="text-center mb-6">
                   <span className="font-body md:text-lg font-bold px-3 py-1 rounded whitespace-nowrap text-[12px] text-primary-foreground bg-primary">THE DEADLINE IS ON DECEMBER 15</span>
                 </p>
+                
+                {/* Adults Only Notice */}
+                <div className="mt-6 bg-primary/10 border-2 border-primary/30 rounded-lg p-5 shadow-sm">
+                  <h5 className="font-script italic text-primary text-xl mb-3 text-center" data-testid="text-rsvp-adults-only-title">
+                    Adults event only
+                  </h5>
+                  <p className="text-sm font-body text-foreground/90 leading-relaxed text-center" data-testid="text-rsvp-adults-only-message">
+                    We adore your little ones, but our wedding will be an adults-only occasion. Take this time to relax and enjoy the night with us.
+                  </p>
+                </div>
               </div>
             </motion.div>
           </div>
