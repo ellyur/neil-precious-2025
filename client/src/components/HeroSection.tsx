@@ -65,10 +65,13 @@ const HeroSection = ({ audioRef }: HeroSectionProps) => {
           )}
         </h1>
 
-        {/* Date */}
+        {/* Date and Location */}
         <div className={`transition-all duration-700 mt-6 ${(animationsEnabled && showElements) ? 'animate-fade-up opacity-100' : (!animationsEnabled ? 'opacity-100' : 'opacity-0')}`}>
           <p className="text-sm sm:text-base md:text-lg text-white font-light tracking-[0.3em] uppercase" data-testid="text-date" style={{ fontFamily: 'Satoshi, sans-serif', fontWeight: 300 }}>
-            January 18, 2026 . General Santos City
+            January 18, 2026
+          </p>
+          <p className="text-sm sm:text-base md:text-lg text-white font-light tracking-[0.3em] uppercase mt-2" style={{ fontFamily: 'Satoshi, sans-serif', fontWeight: 300 }}>
+            General Santos City
           </p>
         </div>
       </div>
