@@ -59,7 +59,7 @@ const EntourageSection = () => {
         { role: "Cord", names: ["Expedito Solis Jr", "Jennifer Solis"] }
       ]
     },
-    bestMan: { name: "Omega Gryeane Solis", role: "Best Man" },
+    bestMan: { name: "Omegs Gryeane Solis", role: "Best Man" },
     maidOfHonor: { name: "Shaiden Patron", role: "Maid of Honor" },
     groomsmen: [
       "Engr. Judah Ray Pagtalunan",
