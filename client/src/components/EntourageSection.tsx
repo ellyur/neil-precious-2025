@@ -20,8 +20,7 @@ const EntourageSection = () => {
         { man: "Rolando Bandiola", woman: "Gemma Bandiola" },
         { man: "Edgar Saplad", woman: "Melly Saplad" },
         { man: "Edilberto Saplad", woman: "Lea Saplad" },
-        { man: "Engr. Efren Canonigo", woman: "Engr. Feln Canonigo" },
-        { man: "Jan Osorio", woman: "Merlyn Jan Osorio" }
+        { man: "Engr. Efren Canonigo", woman: "Engr. Feln Canonigo" }
       ],
       soloMen: [
         "PCOL NOEL SILVOSA",
@@ -29,6 +28,7 @@ const EntourageSection = () => {
         "PCOL ALLADIN TAMAYO",
         "Arnold Campos",
         "Erwin Maglinte",
+        "Jan Osorio",
         "Wilfredo Saplad",
         "Engr. Archimedes Labao"
       ],
