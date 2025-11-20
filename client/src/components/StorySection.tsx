@@ -23,7 +23,7 @@ const StorySection = () => {
         <h2 className="text-3xl sm:text-4xl lg:text-5xl font-display text-center text-foreground mb-3" data-testid="text-story-title">
           OUR STORY
         </h2>
-        <p className="text-center text-sm sm:text-base text-foreground/60 italic">I have found the one whom my soul loves."</p>
+        <p className="text-center text-sm sm:text-base text-foreground/60 italic">"I have found the one whom my soul loves."</p>
         <p className="text-center text-sm sm:text-base text-foreground/60 italic mt-1">Song of Solomon 3:4</p>
       </motion.div>
       <div className="max-w-6xl mx-auto">
