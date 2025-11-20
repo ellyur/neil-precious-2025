@@ -144,7 +144,7 @@ const container: React.CSSProperties = {
 
 const timelineEvents: TimelineEvent[] = [
     {
-        time: "3:30 PM",
+        time: "3:00 PM",
         event: "Guest Arrival",
         description: "Guests arrive and are welcomed to our special day.",
         icon: Users,
@@ -152,7 +152,7 @@ const timelineEvents: TimelineEvent[] = [
         hueB: 40,
     },
     {
-        time: "4:00 PM",
+        time: "3:30 PM",
         event: "Wedding Ceremony",
         description: "Witness our vows and the beginning of our journey together as we exchange rings and promises.",
         icon: Heart,
