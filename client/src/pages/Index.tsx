@@ -66,8 +66,8 @@ const Index = () => {
         <main className="relative z-10 space-y-0">
           <HeroSection audioRef={audioRef} />
         <InvitationRevealSection />
-        <CountdownSection />
         <RSVPSection />
+        <CountdownSection />
         <ImageLoop />
         <StorySection />
         <ScrollTriggeredTimeline />
