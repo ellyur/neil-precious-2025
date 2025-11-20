@@ -23,9 +23,9 @@ const EntourageSection = () => {
         { man: "Engr. Efren Canonigo", woman: "Engr. Feln Canonigo" }
       ],
       soloMen: [
+        "PCOL NOEL SILVOSA",
         "PCOL REYNALDO DENILA JR.",
         "PCOL ALLADIN TAMAYO",
-        "PCOL NOEL SILVOSA",
         "Arnold Campos",
         "Erwin Maglinte",
         "Jan Osorio",
