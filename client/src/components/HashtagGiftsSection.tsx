@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import qrCodeImage from '@assets/gift_1762595139706.jpg';
 
-const backgroundImage = 'https://res.cloudinary.com/dsitzod3c/image/upload/v1763566012/gift_guide_background_sbfczb.jpg';
+const backgroundImage = 'https://res.cloudinary.com/dsitzod3c/image/upload/v1763566013/cover2_pii7wz.jpg';
 
 const HashtagGiftsSection = () => {
   return (

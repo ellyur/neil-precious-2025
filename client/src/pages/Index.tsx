@@ -21,7 +21,7 @@ import { AnimationContext } from '@/contexts/AnimationContext';
 
 // Cover media
 const cover1Image = 'https://res.cloudinary.com/dsitzod3c/image/upload/v1763566013/cover1_emzxqg.jpg';
-const cover2Image = 'https://res.cloudinary.com/dsitzod3c/image/upload/v1763566013/cover2_pii7wz.jpg';
+const cover2Image = 'https://res.cloudinary.com/dsitzod3c/image/upload/v1763566012/gift_guide_background_sbfczb.jpg';
 const cover3Image = 'https://res.cloudinary.com/dsitzod3c/image/upload/v1763566011/cover3_ouglyk.jpg';
 const cover4Image = 'https://res.cloudinary.com/dsitzod3c/image/upload/v1763566011/_JC17810_j5k3om.jpg';
 const cover5Image = 'https://res.cloudinary.com/dsitzod3c/image/upload/v1763566012/_RON1982_zl4m5i.jpg';
