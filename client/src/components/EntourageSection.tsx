@@ -4,7 +4,7 @@ const EntourageSection = () => {
   const entourageData = {
     parents: [
       { label: "Parents of the Groom", names: ["Bonifacio Tamonman", "Lolita Tamonman", "Mark Ian Tamonman"] },
-      { label: "Parents of the Bride", names: ["Alfred Patron", "Ruby Patron"] }
+      { label: "Parents of the Bride", names: ["PCPT Alfred Patron", "Ruby Patron"] }
     ],
     principalSponsors: {
       title: "Principal Sponsors",
