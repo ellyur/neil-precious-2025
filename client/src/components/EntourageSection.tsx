@@ -66,7 +66,7 @@ const EntourageSection = () => {
       "Alfon Philip Sabido",
       "Engr. Azarel John Siasico",
       "Engr. Wesley James Villaver",
-      "Ramel Yve Suarez"
+      "Raven Dave Suarez"
     ],
     bridesmaids: [
       "Michaela Nicole Tuyco",
