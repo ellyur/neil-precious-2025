@@ -19,8 +19,8 @@ const VenueSection = () => {
       mapUrl: 'https://maps.app.goo.gl/7JEvY1XZJSjeFcUM7',
       mapEmbed: 'https://maps.google.com/maps?q=Rancho+San+Pablo+Barangay+Bawing+General+Santos+City&output=embed',
       description: 'Join us at Rancho San Pablo for our wedding ceremony and reception. This beautiful venue will witness our vows of eternal love and host our celebration.',
-      details: 'The ceremony begins at 4:00 PM. Please arrive by 3:30 PM to be seated.',
-      startTime: '4:00 PM',
+      details: 'Guest arrival: 3:00 PM. Ceremony: 3:30 PM.',
+      startTime: '3:30 PM',
       locationGuide: 'View on Maps →'
     }
   ];

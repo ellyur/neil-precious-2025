@@ -66,7 +66,6 @@ const Index = () => {
         <main className="relative z-10 space-y-0">
           <HeroSection audioRef={audioRef} />
         <InvitationRevealSection />
-        <RSVPSection />
         <CountdownSection />
         <ImageLoop />
         <StorySection />
@@ -82,6 +81,7 @@ const Index = () => {
         />
         <DressCodeSection />
         <HashtagGiftsSection />
+        <RSVPSection />
         <MemorableMomentsSection />
         <CoverSection
           imageUrl={cover1Image}
