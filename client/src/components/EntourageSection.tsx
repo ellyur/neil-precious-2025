@@ -36,18 +36,14 @@ const EntourageSection = () => {
         "Carmelita Patron",
         "Michele Ongria",
         "Rizalyn Resicco",
-        "Joermay Sala",
         "Dr. Jessica Verallo",
         "Rowena Acana",
         "Elma Saplad",
         "Mercy Baay",
         "Cora Jao",
         "Engr. Remia Carolino",
-        "Judith Benito",
-        "Lina Coloso",
         "Marina Gabato",
         "Leonisa Guirhem",
-        "Armie Kusela Honesto",
         "Jocelyn Barredo"
       ]
     },
