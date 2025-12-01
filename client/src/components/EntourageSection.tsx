@@ -37,7 +37,7 @@ const EntourageSection = () => {
         "Michele Ongria",
         "Rizalyn Resicco",
         "Dr. Jessica Verallo",
-        "Rowena Acana",
+        "Rowena Acana, Pll",
         "Elma Saplad",
         "Mercy Baay",
         "Cora Jao",
