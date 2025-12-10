@@ -20,7 +20,7 @@ const EntourageSection = () => {
         { man: "Rolando Bandiola", woman: "Gemma Bandiola" },
         { man: "Edgar Saplad", woman: "Melly Saplad" },
         { man: "Edilberto Saplad", woman: "Lea Saplad" },
-        { man: "Engr. Efren Canonigo", woman: "Engr. Feln Canonigo" }
+        { man: "Engr. Efren Canonigo, PEE", woman: "Engr. Feln Canonigo" }
       ],
       soloMen: [
         "PCOL NOEL SILVOSA",
@@ -30,7 +30,7 @@ const EntourageSection = () => {
         "Erwin Maglinte",
         "Merlyn Jan Osorio",
         "Wilfredo Saplad",
-        "Engr. Archimedes Labao"
+        "Engr. Archimedes Labao, PEE"
       ],
       soloWomen: [
         "Carmelita Patron",
@@ -44,7 +44,9 @@ const EntourageSection = () => {
         "Engr. Remia Carolino",
         "Marina Gabato",
         "Leonisa Guirhem",
-        "Jocelyn Barredo"
+        "Jocelyn Barredo",
+        "Lina Coloso",
+        "Zenaida Aguio"
       ]
     },
     secondarySponsors: {
