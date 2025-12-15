@@ -42,9 +42,7 @@ const EntourageSection = () => {
         "Mercy Baay",
         "Cora Jao",
         "Engr. Remia Carolino",
-        "Marina Gabato",
         "Leonisa Guirhem",
-        "Jocelyn Barredo",
         "Lina Coloso",
         "Zenaida Aguio"
       ]
