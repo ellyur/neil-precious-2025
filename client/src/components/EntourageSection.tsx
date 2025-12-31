@@ -11,7 +11,7 @@ const EntourageSection = () => {
       couples: [
         { man: "Roger Patron", woman: "Eden Patron" },
         { man: "Alejandro Pineda", woman: "Leonorita Pineda" },
-        { man: "Engr. Danilo Caparos", woman: "Maysie Caparos" },
+        { man: "Engr. Danilo Caparos", woman: "Mercedes Caparos" },
         { man: "Alfonso Maraggun", woman: "Maribel Maraggun" },
         { man: "Joseph Lagura", woman: "Gina Lagura" },
         { man: "Edwin Saplad", woman: "Revelita Saplad" },
