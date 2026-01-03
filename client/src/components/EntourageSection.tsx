@@ -44,7 +44,8 @@ const EntourageSection = () => {
         "Engr. Remia Carolino",
         "Leonisa Guirhem",
         "Lina Coloso",
-        "Zenaida Aguio"
+        "Zenaida Aguio",
+        "Jocelyn Barredo"
       ]
     },
     secondarySponsors: {
